@@ -1,0 +1,26 @@
+{
+  "name": "travis-ci-test",
+  "version": "1.0.0",
+  "description": "A simple test project to implement Continous Integration with TravisCI, Code Climate and Coveralls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrismarcel/travis-ci-test.git"
+  },
+  "keywords": [
+    "travis-ci",
+    "tdd",
+    "mocha",
+    "chai",
+    "express"
+  ],
+  "author": "Chrismarcel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chrismarcel/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/Chrismarcel/travis-ci-test#readme"
+}
