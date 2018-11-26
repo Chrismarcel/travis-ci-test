@@ -2,7 +2,7 @@
 
 A simple test project to implement Continous Integration with TravisCI, Code Climate and Coveralls
 
-[![Travis Build](https://travis-ci.com/Chrismarcel/travis-ci-test.svg?branch=develop)](https://travis-ci.com/Chrismarcel/travis-ci-test.svg?branch=develop)
+[![Build Status](https://travis-ci.com/Chrismarcel/travis-ci-test.svg?branch=develop)](https://travis-ci.com/Chrismarcel/travis-ci-test.svg?branch=develop)
 
 ## Description
 
