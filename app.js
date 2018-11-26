@@ -5,3 +5,9 @@ const app = express();
 app.get("/", (req, res) => {
   res.send("ci with travis");
 });
+
+const server = app.listen(3000, () => {
+  console.log("App running on Port 3000");
+});
+
+module.exports = server;
